@@ -31,5 +31,10 @@ day3-10: recursion and backtracking.
     contiguous allocation: calloc():ptr = (float*) calloc(25, sizeof(float));   
     free():used to dynamically dealocate the memory. it helps in keeping the memory clear by freeing it. 
     realloc(): used to dynamically re-allocate memory if memory was in short of the previously allocated memory using malloc() or calloc().
+    
+    Day5
+    Got to know more about n-queen problema and bacaktrackking in general.
+    
+    Arrays and pointers. Pointers do not contain a value but rather the address to a variable. 
 
 day 11-30- arrays, linked lists, stacks & queues.
