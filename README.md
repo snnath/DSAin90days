@@ -36,5 +36,9 @@ day3-10: recursion and backtracking.
     Got to know more about n-queen problema and bacaktrackking in general.
     
     Arrays and pointers. Pointers do not contain a value but rather the address to a variable. 
+    
+    Day6
+    
+    Linked Lists- they contain a value also the address of the next location where the value is stored. 
 
 day 11-30- arrays, linked lists, stacks & queues.
