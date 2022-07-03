@@ -39,6 +39,6 @@ day3-10: recursion and backtracking.
     
     Day6
     
-    Linked Lists- they contain a value also the address of the next location where the value is stored. 
+    Linked Lists- they contain a value also the address of the next location where the value is stored. (didnt do much today, tired overall)
 
 day 11-30- arrays, linked lists, stacks & queues.
