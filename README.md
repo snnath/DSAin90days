@@ -35,6 +35,10 @@ day3-10: recursion and backtracking.
     Day5
     Got to know more about n-queen problema and bacaktrackking in general.
     
+    
+day 11-30- arrays, linked lists, stacks & queues.
+
+    Day5
     Arrays and pointers. Pointers do not contain a value but rather the address to a variable. 
     
     Day6
@@ -46,4 +50,7 @@ day3-10: recursion and backtracking.
     single end, double ended and circular linked lists. 
     
     Insertion, deletion, print, checkSize. 
-day 11-30- arrays, linked lists, stacks & queues.
+    
+    Reversing a linked list
+    1. Iterative: using 3 pointers, curr, prev and next. 
+    2. Recursive: 
