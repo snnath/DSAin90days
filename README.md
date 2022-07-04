@@ -40,5 +40,10 @@ day3-10: recursion and backtracking.
     Day6
     
     Linked Lists- they contain a value also the address of the next location where the value is stored. (didnt do much today, tired overall)
-
+    
+    day7
+    Inserting elements is faster in linked lists. O(n)<O(1). And searching elements is faster in arrays. O(1)<O(n).
+    single end, double ended and circular linked lists. 
+    
+    Insertion, deletion, print, checkSize. 
 day 11-30- arrays, linked lists, stacks & queues.
