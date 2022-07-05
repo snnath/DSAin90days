@@ -54,3 +54,6 @@ day 11-30- arrays, linked lists, stacks & queues.
     Reversing a linked list
     1. Iterative: using 3 pointers, curr, prev and next. 
     2. Recursive: 
+    
+    day8
+    
