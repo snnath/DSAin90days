@@ -56,4 +56,5 @@ day 11-30- arrays, linked lists, stacks & queues.
     2. Recursive: 
     
     day8
-    
+    insertion in front and back, deletion in front and back for doubly ended list, kinda the same for cicular array just that head and the tail are connected to each
+    other. (programs in C folfer in S:)
