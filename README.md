@@ -58,3 +58,9 @@ day 11-30- arrays, linked lists, stacks & queues.
     day8
     insertion in front and back, deletion in front and back for doubly ended list, kinda the same for cicular array just that head and the tail are connected to each
     other. (programs in C folfer in S:)
+    
+    day9
+    Stacks: push 0(1)- placing an element or object at the top of a stack, pop 0(1)-removing an object or element from the top of a stack, peek0(1)/top: to bring out
+    the value of the top most element of the stack 
+    
+    implementation: array, arraylist, linked list
