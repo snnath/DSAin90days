@@ -60,7 +60,16 @@ day 11-30- arrays, linked lists, stacks & queues.
     other. (programs in C folfer in S:)
     
     day9
-    Stacks: push 0(1)- placing an element or object at the top of a stack, pop 0(1)-removing an object or element from the top of a stack, peek0(1)/top: to bring out
+    Stacks: push 0(1)- placing an element or object at the top of a stack, 
+    pop 0(1)-removing an object or element from the top of a stack,
+    peek0(1)/top: to bring out
     the value of the top most element of the stack 
     
     implementation: array, arraylist, linked list
+    
+    day10
+    queues: add(enque):
+    remove(deque):
+    peek(front):
+    
+    21:00 on yt. 
