@@ -73,3 +73,5 @@ day 11-30- arrays, linked lists, stacks & queues.
     peek(front):
     
     21:00 on yt. 
+    
+    54:00 cp
