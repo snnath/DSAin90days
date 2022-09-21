@@ -68,9 +68,9 @@ day 11-30- arrays, linked lists, stacks & queues.
     implementation: array, arraylist, linked list
     
     day10
-    queues: add(enque):
-    remove(deque):
-    peek(front):
+    queues: add(enque): adding elements to the queue operation is called enque.
+    remove(deque): Process of removing top element from the queue. 
+    peek(front): seeing the front most element. 
     
     21:00 on yt. 
     
