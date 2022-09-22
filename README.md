@@ -72,6 +72,8 @@ day 11-30- arrays, linked lists, stacks & queues.
     remove(deque): Process of removing top element from the queue. 
     peek(front): seeing the front most element. 
     
+    circular queue: This is a special type of queue in which the end of the queue is attached to the front of the queue thus forming a circle. 
+    
     21:00 on yt. 
     
     54:00 cp
