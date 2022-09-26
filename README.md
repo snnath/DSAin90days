@@ -72,9 +72,15 @@ day 11-30- arrays, linked lists, stacks & queues.
     remove(deque): Process of removing top element from the queue. 
     peek(front): seeing the front most element. 
     
+   
+    Day 11:
     circular queue(array): This is a special type of queue in which the end of the queue is attached to the front of the queue thus forming a circle. 
     Linked List queue: 
     Java collection framwork queue:
+    
+    Day 12:
+    Learned Linear search algos like finding the position in 2D array of a number, find the max number in a 2D array, etc. 
+    KK-45 mins
     
     
     54:00 cp
